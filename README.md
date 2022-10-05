@@ -21,6 +21,8 @@ This is a calculator made in Kotlin:
 
 - [Android Studio](https://developer.android.com/studio?hl=pt&gclid=Cj0KCQjw1vSZBhDuARIsAKZlijQdCFfx4HCJJIgOwzPrkBqaXoGvx1mzBb43P9e_iOwU_XxVDyWuM4gaAgaREALw_wcB&gclsrc=aw.ds)
 
+- [Linear Layout](https://developer.android.com/guide/topics/ui/layout/linear?hl=pt-br)
+
 ## 💻 Project
 
 A simple calculator made in Kotlin for Android using Linear Layout.
