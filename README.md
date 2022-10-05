@@ -3,17 +3,17 @@
 </h4>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="example/ios-logo.png" width=100px height=100px>
+  <img alt="Frontend" src="example/android_logo.png" width=100px height=100px>
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 This is a calculator made in Kotlin:
 
